@@ -8,7 +8,7 @@ require "language/node"
 class LogAnalyzer < Formula
    desc " ⏲ Log analyzer CLI for Heroku, AWS, etc."
    homepage "https://github.com/alikadir/log-analyzer-cli#readme"
-   url "https://github.com/alikadir/log-analyzer-cli/archive/refs/tags/v36.0.0.tar.gz"
+   url "https://github.com/alikadir/log-analyzer-cli/archive/refs/tags/v37.0.0.tar.gz"
    sha256 "36992cb13ab7a43382a9eaa69f5affaf42800cb415bd179668d2537f9e484308"
 
    depends_on "node"
