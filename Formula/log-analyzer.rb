@@ -1,7 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 #                https://docs.brew.sh/Node-for-Formula-Authors
-#
 
 require "language/node"
 
