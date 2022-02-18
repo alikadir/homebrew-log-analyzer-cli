@@ -7,8 +7,8 @@ require "language/node"
 class LogAnalyzer < Formula
    desc " ⏲ Log analyzer CLI for Heroku, AWS, etc."
    homepage "https://github.com/alikadir/log-analyzer-cli#readme"
-   url "https://registry.npmjs.org/log-analyzer-cli/-/log-analyzer-cli-1.0.16.tgz"
-   sha256 "47d3edc325eba82ce31b6b628f56f49fa2a0b4e34d90b2767c6a8f4afa6f189a"
+   url "https://registry.npmjs.org/log-analyzer-cli/-/log-analyzer-cli-1.0.17.tgz"
+   sha256 "4d75ee8cd18ad032ede8a62de1f59eec25401ba0cad4a73a948b7e877b34d23f"
 
    depends_on "node"
    def install
